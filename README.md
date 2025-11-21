@@ -1,2 +1,2 @@
-# BarraTec
+# barratec
 StartUp de Podcasts.
